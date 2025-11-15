@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bitteracid)
 ![MasterHead](https://i.pinimg.com/originals/d7/a3/8f/d7a38f3c7d1338428cc0296260c26a33.gif)
 
 <!--
