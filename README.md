@@ -1,5 +1,5 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bitteracid)
-![MasterHead](https://i.pinimg.com/1200x/35/07/05/350705715f60a88247d479ebbb0bb0f1.jpg)
+![MasterHead](https://i.pinimg.com/originals/77/0b/d2/770bd2cd534382a2521c9838d39cd45c.gif)
 
 <!--
 **bitteracid/bitteracid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
